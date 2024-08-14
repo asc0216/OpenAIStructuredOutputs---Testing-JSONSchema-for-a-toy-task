@@ -4,5 +4,5 @@ Notebook runs 3 different models at multiple temperatures for two json schemas, 
 # Conclusions
 
 - mini struggles with more complicated json schemas - seeing schema in json output
-- gpt-4o reliable at low temps, also struggles at higher temperatures
+- gpt-4o reliable at low temps, also struggles at higher temperatures for complicated schemas
 - simpler schemas are unproblematic for all models
